@@ -41,7 +41,7 @@
 			</tr>
 
 			<tr>
-				<td colspan="2"><FONT color="red"><form:errors path="password" /></FONT></td>
+				<td colspan="2" align="center"><FONT color="red"><form:errors path="password" /></FONT></td>
 			</tr>
 			<tr>
 				<td class="right"><form:label path="password">password :</form:label></td>
