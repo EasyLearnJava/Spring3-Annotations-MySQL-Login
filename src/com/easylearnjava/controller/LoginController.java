@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import com.easylearnjava.model.LoginForm;
 import com.easylearnjava.service.LoginService;
 
-//testing
 @Controller
 @RequestMapping(value={"/loginpage", "/login"})
 public class LoginController {
